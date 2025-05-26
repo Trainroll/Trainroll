@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rul3
-- 👀 I’m interested in learning and developing myb  skillsm
-- 🌱 I’m currently learning azure and documenting my progress
-- 💞️ I’m looking to collaborate on more lab project 
+- 👀 I’m interested 
+- 🌱 I’m currently 
+- 💞️ I’m looking 
 - 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
